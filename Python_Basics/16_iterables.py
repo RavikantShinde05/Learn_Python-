@@ -31,3 +31,9 @@ for x in "Alice":  # "Alice" is a str.
 
 for x in [1, 2, 3, 4, 5,]:  # this list object is iterable
     print(x)
+
+#  Creating an object "shopping_cart" and iterating the items in it.
+shopping_cart = [biscuit, candy, rice, orange, oil]
+
+for items in shopping_cart:
+    print("items")
