@@ -36,5 +36,6 @@ for x in [1, 2, 3, 4, 5,]:  # this list object is iterable
 shopping_cart = [1, 2, 3, 4, 5]
 
 for items in shopping_cart:
-    print("items")
+    print(items)
+
 
