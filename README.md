@@ -30,6 +30,16 @@ or
 
 python3 --version
 
+## Theoretical Knowledge required:
+Learn about the following Theoretical topics which will help you to embrace the logic for coding in python:
+
+- What is Python?
+- Setup an Environment
+- Core Concept
+- Control Flow
+- Data Structure
+- Functions
+- Modules and Libraries, etc.
 
 ## Topics Covered:
 
