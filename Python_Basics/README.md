@@ -1,4 +1,4 @@
-# Top 10 Tasks to Do After Learning Python
+# Top 10 Tasks Linedup after Learning Python:
 
 Congratulations on learning the basics of Python! 🎉
 The next step is to **apply your knowledge to real-world tasks and projects**.
@@ -153,4 +153,3 @@ Steps:
 
 ---
 
-# 🚀 Bonus Cha
