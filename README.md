@@ -89,46 +89,34 @@ Learn about the following Theoretical topics which will help you to embrace the 
 
 - Testing with unittest & pytest
 
-
-
+## GO THROUGH RUN:
+```
 learn-python/
-│
 ├── basics/
 │   ├── variables.py
 │   ├── data_types.py
-│   ├── input_output.py
-│
-├── control_flow
+│   └── input_output.py
+├── control_flow/
 │   ├── if_else.py
-│   ├── loops.py
-│
+│   └── loops.py
 ├── functions/
 │   ├── functions_intro.py
-│   ├── lambda_functions.py
-│
+│   └── lambda_functions.py
 ├── data_structures/
 │   ├── lists.py
 │   ├── tuples.py
 │   ├── dictionaries.py
-│   ├── sets.py
-│
+│   └── sets.py
 ├── oop/
 │   ├── classes_objects.py
-│   ├── inheritance.py
-│
+│   └── inheritance.py
 ├── modules_packages/
-│
 ├── file_handling/
-│
 ├── error_handling/
-│
 ├── advanced_topics/
-│
 ├── projects/
-│
 └── exercises/
-
-
+```
 
 ## 🚀 How to Use This Repository:
 
