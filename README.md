@@ -118,7 +118,7 @@ learn-python/
 └── exercises/
 ```
 
-## 🚀 How to Use This Repository:
+## How to Use This Repository:
 
 ### Clone the repository:
 
@@ -139,15 +139,9 @@ for some exceptional use case go through -> ***Important_concepts***
 
 - Submit a Pull Request
 
-### 📖 Recommended Resources:
-
-- Official Python Documentation
-
-- Real Python
-
-- Python Tutor
 
 ### Aim to Learn_Python:
+
 - Build strong Python fundamentals
 
 - Encourage hands-on learning
